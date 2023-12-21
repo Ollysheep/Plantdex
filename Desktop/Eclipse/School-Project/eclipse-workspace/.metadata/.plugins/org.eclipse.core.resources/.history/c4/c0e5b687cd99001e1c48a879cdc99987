@@ -1,0 +1,11 @@
+
+public class Employe extends Personne {
+	
+	private float salary;
+	
+	public Employe(int age, String name, String surname, float salary) {
+		super(age, name, surname);
+		this.salary = salary;
+	}
+
+}

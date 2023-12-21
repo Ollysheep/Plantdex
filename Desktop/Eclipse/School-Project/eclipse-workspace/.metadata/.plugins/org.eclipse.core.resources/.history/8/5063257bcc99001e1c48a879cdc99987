@@ -1,0 +1,8 @@
+
+public class Employe extends Personne {
+	
+	private float salary;
+	
+	
+
+}

@@ -1,0 +1,14 @@
+1702305924275	Rename method 'getMarque'
+1702305998964	Rename field 'modele'
+1702306037416	Rename field 'annee'
+1702306050717	Rename local variable 'annee'
+1702306122237	Rename field 'vitesseMax'
+1702306132845	Rename local variable 'vitesseMax'
+1702306174684	Rename local variable 'vitesseMax'
+1702306295303	Delete element
+1702306498362	Delete element
+1702308008999	Delete element
+1702309203777	Rename package 'ch6'
+1702309639660	Encapsulate field 'age'
+1702309647044	Encapsulate field 'name'
+1702309651641	Encapsulate field 'surname'
